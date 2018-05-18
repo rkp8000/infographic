@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="data_analysis_checklist.svg.2018_05_04_16_36_22.0.svg">
+   sodipodi:docname="data_analysis_checklist.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49775414"
-     inkscape:cx="1012.723"
-     inkscape:cy="4420.3774"
+     inkscape:zoom="0.49815235"
+     inkscape:cx="1335.5917"
+     inkscape:cy="-4078.1436"
      inkscape:document-units="in"
-     inkscape:current-layer="g4472"
+     inkscape:current-layer="g4758"
      showgrid="false"
      units="in"
-     inkscape:window-width="1279"
-     inkscape:window-height="1396"
+     inkscape:window-width="1576"
+     inkscape:window-height="1397"
      inkscape:window-x="1921"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -349,7 +349,7 @@
              width="2060.5068"
              id="rect4354" /></flowRegion><flowPara
            style="font-size:35px;text-align:justify;text-anchor:start"
-           id="flowPara4356">A well-defined goal is the anchor point of an analysis. It provides a foundation for the structure of your inquiry and allows you to gauge the utility of each potential addition to your analysis. Further, if your goal is poorly defined, how can you know if you've achieved it, or if it's time to stop and move onto something else?</flowPara><flowPara
+           id="flowPara4356">A concrete objective is the anchor point of any analysis. It provides a foundation for your inquiry and allows you to contextualize and evaluate each potential extension. Further, a well defined goal allows you to specifically gauge your progress and assess when your analysis is complete.</flowPara><flowPara
            id="flowPara4544"
            style="font-size:35px;text-align:justify;text-anchor:start" /><flowPara
            id="flowPara4546"
@@ -416,7 +416,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
                id="flowPara4420"><flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="flowSpan4428">Is appropriate when</flowSpan>: Ensuring your data has been collected properly and familiarizing oneself with the data beyond basic characterization. If nothing noteworthy emerges, however, one must decide whether to pursue more focused directions.</flowPara></flowRoot>        </g>
+   id="flowSpan4428">Is appropriate when</flowSpan>: Ensuring your data has been collected properly and when familiarizing oneself with the data beyond basic characterization. If nothing noteworthy emerges, however, one must decide whether to pursue more focused directions.</flowPara></flowRoot>        </g>
         <g
            transform="translate(0,128.40016)"
            id="g4432">
@@ -572,7 +572,7 @@
              id="flowPara4727"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              id="flowPara4731"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">This doesn’t mean your expectations will be met, of course, and a lot of good science emerges from observations no one had considered before. However, if you can’t think of anything that would be both meaningful and reasonably likely to observe you might want to rethink your plan.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">This doesn’t mean your expectations will be met, of course, and much good science emerges from unexpected results. However, if you can’t think of anything that would be both meaningful and reasonably likely to observe you might want to rethink your analysis strategy.</flowPara><flowPara
              id="flowPara4833"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRoot>      </g>
       <g
@@ -623,7 +623,7 @@
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4759" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="flowPara4763">Imagining the end product of your analysis as precisely as possible provides a useful target for directing your methods. Good mock visualizations are also very useful for contextualizing your results before presenting them.</flowPara><flowPara
+             id="flowPara4763">Imagining the end product of your analysis as precisely as possible provides a useful target for directing your methods. Good mock visualizations are also very useful for contextualizing your results so that you will have some idea how to interpret them when they arrive.</flowPara><flowPara
              id="flowPara4843"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /></flowRoot>      </g>
       <g
@@ -666,17 +666,15 @@
              id="flowRegion4785"><rect
                y="1981.7893"
                x="873.64459"
-               height="562.065"
-               width="1304.3573"
+               height="610.24298"
+               width="1331.3553"
                id="rect4787" /></flowRegion><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4789">Could I draw a meaningful conclusion from my expected results? Will they expand my understanding of the data? Will they reflect the structure of the data more than the structure of my analysis?</flowPara><flowPara
              id="flowPara4795"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
-             id="flowPara4855"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">It is challenging to translate a plot or table into a meaningful statement about the underlying system, a statement that reveals subtleties of its composition or draws connections between components previously thought unrelated. In complex analyses especially, it can be quite laborious to identify how strongly the results have been influenced by the specifics of the analysis. For example, if your analysis segregates the data into clusters, it can be hard to discern whether the results reflect natural groupings vs. the definitions of your clustering criteria.</flowPara><flowPara
              id="flowPara4857"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">It is challenging to translate a plot or table into a statement about the underlying system that reveals subtleties of its composition or draws connections between components previously thought unrelated. In complex analyses especially, it can be quite laborious to identify how strongly the results have been influenced by the specifics of the analysis. For example, if your analysis segregates the data into clusters, it can be hard to discern whether the results reflect natural groupings vs. the definitions of your clustering criteria. Think carefully about how interpretable your expected results will be before you embark on a complicated path.</flowPara></flowRoot>      </g>
       <g
          transform="translate(0,473.53858)"
          id="g4797">
@@ -725,9 +723,7 @@
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4823" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="flowPara4825">In the end you always have limited time to explain your analysis and convince your audience of its reasonability. A simple analysis that sacrifices a small amount of predictive power can thus be preferable to a more predictive but highly convoluted one, even if the latter is sound and logical.</flowPara><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-             id="flowPara4827" /></flowRoot>      </g>
+             id="flowPara4827">In the end you have limited time to explain your analysis and convince your audience of its reasonability. A simple analysis that sacrifices a small amount of predictive power can thus be preferable to a more predictive but highly convoluted one, even if the latter is sound and logical. Further, being able to explain your analysis concisely is a good way to ensure you fully understand it yourself.</flowPara></flowRoot>      </g>
     </g>
     <g
        id="g3622"
@@ -783,7 +779,7 @@
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
                id="flowPara4682" /><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-               id="flowPara4678">Almost all analyses require parameters choices, e.g. normalization factors, bin sizes, or smoothing scales, and these affect the results quantitatively. It can of course be inconvenient to re-run your analysis for every possible parameter combination, but you should be able to reasonably speak to the effect they have on the qualitative features of your results.</flowPara><flowPara
+               id="flowPara4678">Almost all analyses require parameters choices, e.g. normalization factors, bin sizes, or smoothing scales, and these quantitatively affect the results. While it's usually intractable to re-run your analysis for every possible parameter combination, you should be able to reasonably speak to the effect they have on the qualitative features of your results.</flowPara><flowPara
                id="flowPara3576"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /><flowPara
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
@@ -835,7 +831,7 @@
                id="flowPara3610"
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
                id="flowPara3616"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif">For extreme results this is often only a formality, but for subtler results statistical tests are key. These don’t have to generate p-values, but they should be mathematically interpretable.</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif">For extreme results this is often only a formality, but for subtler results statistical tests are key. These don’t have to generate p-values, but they should be statistically sound and mathematically interpretable.</flowPara></flowRoot>        </g>
         <g
            style="stroke:#000000;stroke-width:1.85132718;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="g3624"
@@ -880,7 +876,7 @@
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara3646" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="flowPara3648">Naively interesting structures in a dataset often result from properties of the data irrelevant to your scientific question. For instance, the relationship between two variables might appear to change across conditions but actually be constant, with the apparent change arising from differences in the individual distributions of the variables, as opposed to how they relate. It can take a lot of thought to ensure your analysis controls for all important confounds.</flowPara><flowPara
+             id="flowPara3648">Naively interesting structures in a dataset often result from properties of the data irrelevant to your scientific question. For instance, a strong correlation between two variables might be caused by shared but fundamentally irrelevant external input. It can take a lot of thought to ensure your analysis controls for all important confounds.</flowPara><flowPara
              id="flowPara3650"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRoot>      </g>
     </g>
@@ -931,7 +927,11 @@
                x="873.64459"
                y="1981.7893" /></flowRegion><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-             id="flowPara4643">How will I write my code? How will I organize it?</flowPara></flowRoot>      </g>
+             id="flowPara4643">How will I write my code? How will I organize it?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="flowPara3682" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+             id="flowPara3684">The way your code is written can be the difference between a set of crisp, reproducible results, and an unending string of headaches. Thinking through the organization ahead of time so your codebase doesn't end up a random sequence of haphazard logic statements is highly worth it. One useful technique is to start with high-level function specifications and then fill in the details from the top down.</flowPara></flowRoot>      </g>
       <g
          id="g4645"
          transform="translate(0,142.4905)">
@@ -980,7 +980,7 @@
              id="flowPara4669"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              id="flowPara4671"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Just because your code doesn’t crash doesn’t mean it’s doing what you think it is. It’s crucial to verify its functionality with mock datasets or contexts where the ground truth results are known. Note that it’s common for tests to take up more than 50% of your code base.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Just because your code doesn’t crash doesn’t mean it’s working. It’s crucial to verify functionality with mock datasets or contexts where the ground truth is known. These tests should be included in your codebase itself (as opposed to being run in an interpreter, for example), so that they can be quickly re-run when the analysis code changes. Note that it’s common for tests to take up more than 50% of your codebase.</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
              id="flowPara4750" /><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
@@ -1032,8 +1032,8 @@
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Once I write my basic code, how will I integrate my code it into my existing codebase?</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4699" /><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-             id="flowPara4701">This is an especially important in the highly iterative research process, in which one might run several variations of each unique analysis. While individual changes are often small, they can quickly tangle into a morass of complexity requiring large-scale refactoring to ensure cleanliness and readability. Importantly, while the heart of your code might be only a couple lines, one often requires a large infrastructure for file I/O, array manipulation, data reformatting, and auxiliary functions. While these are often conceptually straightforward, they can still be complicated and time-consuming to implement, and easily riddled with bugs.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+             id="flowPara4701">This is especially important in the highly iterative research process, in which one might run several variations of each analysis. While individual changes are often small, they can quickly tangle into a morass of complexity requiring large-scale refactoring to ensure readability. Importantly, while the mathematical heart of your code might be only a couple lines, one often requires a large infrastructure for file I/O, array manipulation, data formatting, etc. While these are often conceptually straightforward, they can be complicated and time-consuming to implement and are frequently bug-ridden.</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4752" /><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
@@ -1086,11 +1086,11 @@
              id="flowPara4730"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              id="flowPara4732"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">An analysis is only useful if you can recall it, even if it didn’t yield anything noteworthy. The copious analyses and variations in the research process make for a tangle not just of code, but of figures and tables too. Based on scientific developments or inquiries from colleagues, it is critical to be able to access each analysis you’ve performed in the past, along with the full results and methodology (including relevant code, should you decide to re-run or modify it) with a minimal amount of time and effort. As with code, when your set of results from different analyses reaches a critical mass, it can be valuable to reorganize.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">The iterative research process can make for a tangle not just of code, but of figures and tables too, and an analysis has no value unless you can recall the methodology and output, even if it didn’t yield anything noteworthy. Based on scientific developments or inquiries from colleagues, it is crucial to be able to efficiently access each analysis you’ve performed in the past, along with the full methodology and results (including relevant code, should you decide to re-run or modify it). And as with code, when your set of results from different analyses reaches a critical mass, it can be worth the time to reorganize it.</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
              id="flowPara4754" /><flowPara
              id="flowPara4734"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /></flowRoot>      </g>
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"> it</flowPara></flowRoot>      </g>
     </g>
     <g
        transform="translate(0,2177.4764)"
@@ -1146,7 +1146,7 @@
                id="flowPara4784"
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
                id="flowPara4786"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">You don’t need to flesh out every detail before starting, but you should estimate how much risk each unknown involves. These range from not knowing how to implement a particular computation, to not knowing how a certain aspect of the analysis will turn out that is necessary for continuation, to not knowing how likely it is your data will contain any evidence at all for a hypothesis, to not knowing how long your funding will persist. Isolate all uncertainties and failure points and either convince yourself of your ability to solve them or estimate the risk each one elicits to the success of your analysis as a whole and proceed accordingly.</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">You don’t need to flesh out every detail before starting, but you should estimate how much risk each unknown involves. These range from not knowing how to implement a particular computation, to not knowing how a certain milestone will turn out, to not knowing how long your funding will persist. Isolate all uncertainties and failure points and either convince yourself of your ability to work through them or estimate the risk of each  to the success of your analysis as a whole before proceeding.</flowPara><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
                id="flowPara4788" /><flowPara
                id="flowPara4790"
@@ -1245,7 +1245,7 @@
              id="flowPara4842"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="flowPara4846">The simpler your analysis is, the easier everything above will be to address, the fewer headaches you’ll encounter, and the faster you’ll reach your goal. Complexity should only be added when it is purposeful and absolutely necessary to reach your analysis objective.</flowPara><flowPara
+             id="flowPara4846">The simpler your analysis is, the easier everything above will be to address, the fewer headaches you’ll encounter, and the faster you’ll reach your goal. Complexity should only be added when it is purposeful and absolutely necessary for one's final objective.</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
              id="flowPara3687" /></flowRoot>      </g>
     </g>
