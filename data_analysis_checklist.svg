@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45949278"
-     inkscape:cx="1963.8552"
-     inkscape:cy="-890.53183"
+     inkscape:zoom="0.32412828"
+     inkscape:cx="2191.9882"
+     inkscape:cy="-687.24944"
      inkscape:document-units="in"
-     inkscape:current-layer="g3880"
+     inkscape:current-layer="g4758"
      showgrid="false"
      units="in"
      inkscape:window-width="2562"
-     inkscape:window-height="1400"
+     inkscape:window-height="1396"
      inkscape:window-x="1921"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -262,7 +262,7 @@
        xml:space="preserve"
        id="flowRoot4269"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.79224123,0,0,1.4974466,-23.059154,-231.18768)"><flowRegion
+       transform="matrix(0.79224123,0,0,1.2324419,-23.059154,-231.86053)"><flowRegion
          id="flowRegion4271"><rect
            id="rect4273"
            width="2160"
@@ -317,40 +317,41 @@
          x="79.106529"
          y="181.04247" /></text>
     <g
-       id="g4567">
+       id="g4567"
+       transform="translate(0,33.866665)">
       <rect
-         y="53.029182"
+         y="-20.491774"
          x="12.7"
-         height="410.51035"
+         height="448.69186"
          width="990.59998"
          id="rect4284"
-         style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#ccaaff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4296"
          xml:space="preserve"
-         transform="translate(-13.982364,0)"><flowRegion
+         transform="translate(-36.56014,-68.297777)"><flowRegion
            id="flowRegion4298"><rect
              y="57.765625"
              x="453.73508"
              height="70.89016"
              width="290.20657"
              id="rect4300" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.8666687px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara4302">PURPOSE</flowPara></flowRoot>      <flowRoot
-         transform="translate(147.55348,2.7149781e-8)"
+         transform="translate(40.87352,-59.266671)"
          style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4334"
          xml:space="preserve"><flowRegion
            id="flowRegion4336"><rect
              y="89.845314"
              x="38.767941"
-             height="32.961536"
-             width="648.21942"
+             height="26.932396"
+             width="866.94287"
              id="rect4338" /></flowRegion><flowPara
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:start;text-anchor:start"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:start;text-anchor:start"
            id="flowPara4340">What is this analysis supposed to achieve? What specific question am I trying to answer?</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.28222222,0,0,0.28222222,4.5429981e-8,-34.218808)"
+         transform="matrix(0.28222222,0,0,0.28222222,4.5429981e-8,-86.712136)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4350"
          xml:space="preserve"><flowRegion
@@ -369,11 +370,12 @@
          transform="translate(0,12.982222)"
          id="g4492">
         <g
-           id="g4388">
+           id="g4388"
+           transform="translate(0,-56.444441)">
           <rect
              y="162.68739"
              x="25.4"
-             height="52.059967"
+             height="56.934361"
              width="965.20001"
              id="rect4362"
              style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none" />
@@ -385,10 +387,10 @@
                id="flowRegion4372"><rect
                  y="601.61853"
                  x="135"
-                 height="127.46295"
+                 height="157.68808"
                  width="3330"
                  id="rect4374" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
                id="flowPara4376">Characterization</flowPara><flowPara
                id="flowPara4378"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><flowSpan
@@ -397,15 +399,15 @@
                id="flowPara4386"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="flowSpan4424">Is appropriate when</flowSpan>: First analyzing a dataset. However, simple characterization rarely leads to novel insights.</flowPara></flowRoot>        </g>
+   id="flowSpan4424">Is appropriate when</flowSpan>: First analyzing a dataset. However, simple characterization rarely leads to unique insights.</flowPara></flowRoot>        </g>
         <g
            id="g4397"
-           transform="translate(0,52.059967)">
+           transform="translate(0,0.48991569)">
           <rect
              style="opacity:1;fill:#2ad4ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none"
              id="rect4399"
              width="965.20001"
-             height="64.056122"
+             height="69.539818"
              x="25.4"
              y="162.68739" />
           <flowRoot
@@ -416,10 +418,10 @@
                id="flowRegion4403"><rect
                  id="rect4405"
                  width="3330"
-                 height="182.17627"
+                 height="223.19608"
                  x="135"
                  y="601.61853" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
                id="flowPara4411">Exploration</flowPara><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
                id="flowPara4418"><flowSpan
@@ -428,14 +430,14 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
                id="flowPara4420"><flowSpan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="flowSpan4428">Is appropriate when</flowSpan>: Ensuring your data has been collected properly and when familiarizing oneself with the data beyond basic characterization. If nothing noteworthy emerges, however, one must decide whether to pursue more focused directions.</flowPara></flowRoot>        </g>
+   id="flowSpan4428">Is appropriate when</flowSpan>: Ensuring your data has been collected properly and when familiarizing yourself with the data beyond basic characterization. If nothing noteworthy emerges, however, you must decide whether to pursue more focused directions.</flowPara></flowRoot>        </g>
         <g
-           transform="translate(0,116.11609)"
+           transform="translate(0,70.029726)"
            id="g4432">
           <rect
              y="162.68739"
              x="25.4"
-             height="52.752804"
+             height="57.017906"
              width="965.20001"
              id="rect4434"
              style="opacity:1;fill:#80e5ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none" />
@@ -451,7 +453,7 @@
                  width="3330"
                  id="rect4440" /></flowRegion><flowPara
                id="flowPara4442"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Hypothesis Test</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Hypothesis Test</flowPara><flowPara
                id="flowPara4444"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><flowSpan
    id="flowSpan4446"
@@ -462,12 +464,12 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Is appropriate when</flowSpan>: A specific hypothesis has been suggested by either data exploration or known properties of related systems in the literature.</flowPara></flowRoot>        </g>
         <g
            id="g4452"
-           transform="translate(0,168.8689)">
+           transform="translate(0,127.04762)">
           <rect
              style="opacity:1;fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none"
              id="rect4454"
              width="965.20001"
-             height="52.983734"
+             height="55.420929"
              x="25.4"
              y="162.68739" />
           <flowRoot
@@ -481,7 +483,7 @@
                  height="170.81148"
                  x="135"
                  y="601.61853" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
                id="flowPara4462">Hypothesis Comparison</flowPara><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
                id="flowPara4464"><flowSpan
@@ -492,12 +494,12 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
    id="flowSpan4470">Is appropriate when</flowSpan>: Multiple reasonable hypotheses have been suggested by data exploration or the field at large.</flowPara></flowRoot>        </g>
         <g
-           transform="translate(0,221.85263)"
+           transform="translate(0,182.46855)"
            id="g4472">
           <rect
              y="162.68739"
              x="25.4"
-             height="53.597935"
+             height="56.644428"
              width="965.20001"
              id="rect4474"
              style="opacity:1;fill:#d5f6ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.07999992;stroke-miterlimit:4;stroke-dasharray:none" />
@@ -513,7 +515,7 @@
                  width="3330"
                  id="rect4480" /></flowRegion><flowPara
                id="flowPara4482"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Prediction</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Prediction</flowPara><flowPara
                id="flowPara4484"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><flowSpan
    id="flowSpan4486"
@@ -521,7 +523,7 @@
                id="flowPara4488"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><flowSpan
    id="flowSpan4490"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Is appropriate when</flowSpan>: One desires only better approximations of relationships, regardless of their internal details (typically in clinical or engineering applications).</flowPara></flowRoot>        </g>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Is appropriate when</flowSpan>: You only desire better approximations of relationships in your data, regardless of their internal meaning (typically in clinical or engineering applications).</flowPara></flowRoot>        </g>
       </g>
     </g>
     <flowRoot
@@ -558,7 +560,7 @@
              sodipodi:nodetypes="cccccc" />
         </g>
         <flowRoot
-           transform="translate(144.42175,234.47404)"
+           transform="translate(145.55063,236.7318)"
            xml:space="preserve"
            id="flowRoot4709"
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -580,10 +582,10 @@
                height="338.89764"
                width="2565"
                id="rect4723" /></flowRegion><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
              id="flowPara4725">What do I expect my results to look like? Can I imagine at least two reasonably likely outcomes?</flowPara><flowPara
              id="flowPara4727"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              id="flowPara4731"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">This doesn’t mean your expectations will be met, of course, and much good science emerges from unexpected results. However, if you can’t think of anything that would be both meaningful and reasonably likely to observe you might want to rethink your analysis strategy.</flowPara><flowPara
              id="flowPara4833"
@@ -612,7 +614,7 @@
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4741"
            xml:space="preserve"
-           transform="translate(144.42175,236.7318)"><flowRegion
+           transform="translate(146.67951,238.42512)"><flowRegion
              id="flowRegion4743"><rect
                y="357.27148"
                x="-121.69631"
@@ -632,7 +634,7 @@
                x="873.64459"
                y="1981.7893" /></flowRegion><flowPara
              id="flowPara4837"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">What plots or tables will I use to depict my results?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">What plots or tables will I use to depict my results?</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4759" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -660,7 +662,7 @@
              sodipodi:nodetypes="cccccc" />
         </g>
         <flowRoot
-           transform="translate(144.42175,235.60292)"
+           transform="translate(144.98619,236.7318)"
            xml:space="preserve"
            id="flowRoot4773"
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -682,12 +684,12 @@
                height="348.28351"
                width="2565"
                id="rect4787" /></flowRegion><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
-             id="flowPara4789">Could I draw a meaningful conclusion from my expected results? Will they expand my understanding of the data? Will they reflect the structure of the data more than the structure of my analysis?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+             id="flowPara4789">Will my results meaningfully expand my understanding of the data? Will they reflect the structure of the data more than the structure of my analysis?</flowPara><flowPara
              id="flowPara4795"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
              id="flowPara4857"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Translate a plot into a statement that reveals subtleties of the underlying system's composition can be immensely challenging. In complex analyses especially, it can be hard to determine how strongly the results have been influenced by the analysis details as opposed to internal data structures. E.g. in a clustering analysis how does one discern whether the results reflect natural groupings in the data vs. the definitions of your clustering criteria? Think carefully about how interpretable your expected results will be before you start a complicated analysis.</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Translating a plot into a statement that reveals subtleties of the underlying system's composition can be immensely challenging. In complex analyses especially, it is rarely straightforward to determine how strongly the results have been influenced by the analysis details vs. the internal data structures. E.g. in a clustering analysis the resulting clusters can easily reflect your clustering criteria rather than natural groupings in the data. Think carefully about how interpretable your expected results will be before you start a complicated analysis.</flowPara></flowRoot>      </g>
       <g
          transform="translate(0,323.24601)"
          id="g4797">
@@ -712,7 +714,7 @@
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4805"
            xml:space="preserve"
-           transform="translate(144.42175,236.7318)"><flowRegion
+           transform="translate(144.98619,238.42512)"><flowRegion
              id="flowRegion4807"><rect
                y="357.27148"
                x="-121.69631"
@@ -732,7 +734,7 @@
                x="873.64459"
                y="1981.7893" /></flowRegion><flowPara
              id="flowPara4821"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Can I clearly and concisely explain my analysis so my audience understands and trusts it? If necessary, can I explain and justify every detail?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Can I clearly and concisely explain my analysis so my audience understands and trusts it? If necessary, can I explain and justify every detail?</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4823" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -768,7 +770,7 @@
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot4559"
              xml:space="preserve"
-             transform="translate(144.42175,235.76092)"><flowRegion
+             transform="translate(144.98619,237.45424)"><flowRegion
                id="flowRegion4561"><rect
                  y="357.27148"
                  x="-121.69631"
@@ -784,11 +786,11 @@
                id="flowRegion4668"><rect
                  id="rect4670"
                  width="2565"
-                 height="231.56108"
+                 height="314.26093"
                  x="873.64459"
                  y="1981.7893" /></flowRegion><flowPara
                id="flowPara4672"
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How will I choose the parameters of my analysis and quantify my results’ dependence on them?</flowPara><flowPara
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How will I choose the parameters of my analysis and quantify my results’ dependence on them?</flowPara><flowPara
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
                id="flowPara4682" /><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -818,7 +820,7 @@
                sodipodi:nodetypes="cccccc" />
           </g>
           <flowRoot
-             transform="translate(144.98619,235.19648)"
+             transform="translate(145.55063,236.8898)"
              xml:space="preserve"
              id="flowRoot3586"
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -840,7 +842,7 @@
                  height="66.592331"
                  width="723.90057"
                  id="rect3598" /></flowRegion><flowPara
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.70000007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
                id="flowPara3600">How will I quantitatively argue my results didn’t arise by chance?</flowPara><flowPara
                id="flowPara3610"
                style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'" /><flowPara
@@ -867,7 +869,7 @@
                sodipodi:nodetypes="cccccc" />
           </g>
           <flowRoot
-             transform="translate(144.98619,235.76092)"
+             transform="translate(144.98619,237.45424)"
              xml:space="preserve"
              id="flowRoot3630"
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -889,7 +891,7 @@
                  height="87.068939"
                  width="723.90057"
                  id="rect3642" /></flowRegion><flowPara
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.70000007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
                id="flowPara3644">Could factors I don’t care about cause my expected results?</flowPara><flowPara
                id="flowPara3646"
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
@@ -926,7 +928,7 @@
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4622"
            xml:space="preserve"
-           transform="translate(145.55063,218.91627)"><flowRegion
+           transform="translate(145.55063,222.30291)"><flowRegion
              id="flowRegion4624"><rect
                y="357.27148"
                x="-121.69631"
@@ -945,8 +947,8 @@
                height="303.72626"
                x="873.64459"
                y="1981.7893" /></flowRegion><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
-             id="flowPara4643">How will I write my code? How will I organize it?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+             id="flowPara4643">What code will I write? How will I organize it?</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara3682" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -972,7 +974,7 @@
              sodipodi:nodetypes="cccccc" />
         </g>
         <flowRoot
-           transform="translate(145.55063,235.03848)"
+           transform="translate(145.55063,236.7318)"
            xml:space="preserve"
            id="flowRoot4653"
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -994,7 +996,7 @@
                height="308.30225"
                width="2565"
                id="rect4665" /></flowRegion><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
              id="flowPara4667">What tests will I run to ensure my code works properly?</flowPara><flowPara
              id="flowPara4669"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
@@ -1028,7 +1030,7 @@
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4683"
            xml:space="preserve"
-           transform="translate(145.55063,219.79848)"><flowRegion
+           transform="translate(145.55063,223.18516)"><flowRegion
              id="flowRegion4685"><rect
                y="357.27148"
                x="-121.69631"
@@ -1048,7 +1050,7 @@
                x="873.64459"
                y="1981.7893" /></flowRegion><flowPara
              id="flowPara4697"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Once I write my basic code, how will I integrate my code it into my existing codebase?</flowPara><flowPara
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Once I write my basic code, how will I integrate it into my existing codebase?</flowPara><flowPara
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
              id="flowPara4699" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -1078,7 +1080,7 @@
              sodipodi:nodetypes="cccccc" />
         </g>
         <flowRoot
-           transform="translate(144.42175,219.23408)"
+           transform="translate(144.98619,223.1852)"
            xml:space="preserve"
            id="flowRoot4713"
            style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1100,7 +1102,7 @@
                height="345.23779"
                width="2565"
                id="rect4725" /></flowRegion><flowPara
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
              id="flowPara4728">How will I store my results so I can quickly access them later, recalling every detail if need be?</flowPara><flowPara
              id="flowPara4730"
              style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
@@ -1145,7 +1147,7 @@
                sodipodi:nodetypes="cccccc" />
           </g>
           <flowRoot
-             transform="translate(144.42175,236.3254)"
+             transform="translate(144.42175,238.01872)"
              xml:space="preserve"
              id="flowRoot4768"
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1156,7 +1158,7 @@
                  x="-121.69631"
                  y="357.27148" /></flowRegion><flowPara
                id="flowPara4774"
-               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'">RISKS</flowPara></flowRoot>          <flowRoot
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'">RISK</flowPara></flowRoot>          <flowRoot
              transform="matrix(0.28222222,0,0,0.28222222,20.138098,0)"
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot4776"
@@ -1167,7 +1169,7 @@
                  height="338.03018"
                  width="2565"
                  id="rect4780" /></flowRegion><flowPara
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.00000062px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
                id="flowPara4848">What parts of my analysis still contain uncertainty? How is my analysis most likely to fail?</flowPara><flowPara
                id="flowPara4784"
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'" /><flowPara
@@ -1203,7 +1205,7 @@
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot4800"
              xml:space="preserve"
-             transform="translate(147.22613,235.19648)"><flowRegion
+             transform="translate(147.22613,236.8898)"><flowRegion
                id="flowRegion4802"><rect
                  y="357.27148"
                  x="-121.69631"
@@ -1211,7 +1213,7 @@
                  width="290.20657"
                  id="rect4804" /></flowRegion><flowPara
                style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
-               id="flowPara4806">TIME COST</flowPara></flowRoot>          <flowRoot
+               id="flowPara4806">TIME</flowPara></flowRoot>          <flowRoot
              xml:space="preserve"
              id="flowRoot4808"
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1219,11 +1221,11 @@
                id="flowRegion4810"><rect
                  id="rect4812"
                  width="723.90057"
-                 height="82.037849"
+                 height="106.36286"
                  x="246.56192"
                  y="559.30499" /></flowRegion><flowPara
                id="flowPara4814"
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How long will it take to complete the analysis from start to finish? To write the code? To run it? To test it? To organize and present the methods and results?</flowPara><flowPara
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.70000007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How long will it take to complete the analysis from start to finish? To write the code? To run it? To test it? To organize and present the methods and results?</flowPara><flowPara
                style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
                id="flowPara4816" /><flowPara
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -1252,15 +1254,15 @@
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot4826"
              xml:space="preserve"
-             transform="translate(150.06619,235.19648)"><flowRegion
+             transform="translate(146.67955,236.3254)"><flowRegion
                id="flowRegion4828"><rect
                  y="357.27148"
                  x="-121.69631"
                  height="70.89016"
                  width="290.20657"
                  id="rect4830" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
-               id="flowPara4832">SIMPLICITY</flowPara></flowRoot>          <flowRoot
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+               id="flowPara3690">COMPLEXITY</flowPara></flowRoot>          <flowRoot
              xml:space="preserve"
              id="flowRoot4834"
              style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1272,11 +1274,11 @@
                  x="246.56192"
                  y="559.30499" /></flowRegion><flowPara
                id="flowPara3681"
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Have I simplified everything as much as possible?</flowPara><flowPara
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Have I simplified everything as much as possible?</flowPara><flowPara
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
                id="flowPara4842" /><flowPara
                id="flowPara4846"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif">The simpler your analysis is, the easier everything above will be to address, the fewer headaches you’ll encounter, and the faster you’ll reach your goal. Complexity should only be added when it is absolutely necessary for one's final objective.</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif">The simpler your analysis is, the easier everything above will be to address, the fewer headaches you’ll encounter, and the faster you’ll reach your goal. Complexity should only be added when it is absolutely necessary for your final objective.</flowPara><flowPara
                id="flowPara3687"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRoot>        </g>
       </g>
@@ -1285,7 +1287,7 @@
        xml:space="preserve"
        id="flowRoot3685"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(41.86839,1.2284077)"><flowRegion
+       transform="translate(-2.3261565,-44.666046)"><flowRegion
          id="flowRegion3687"><rect
            id="rect3689"
            width="990.59998"
@@ -1294,7 +1296,7 @@
            y="27.185278"
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'" /></flowRegion><flowPara
          id="flowPara3691"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Make sure you have carefully addressed each of the following <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Make sure you have addressed each of the following <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
    id="flowSpan3693">before</flowSpan> embarking on a new analysis of your data.</flowPara></flowRoot>  </g>
 </svg>
